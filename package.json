@@ -1,10 +1,10 @@
 {
   "name": "thelounge-theme-scoutlink",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A theme for The Lounge",
   "main": "package.json",
   "thelounge": {
-    "css": "scoutlink.css",
+    "css": "main.css",
     "name": "ScoutLink",
     "type": "theme"
   },
@@ -20,6 +20,6 @@
     "scoutlink"
   ],
   "bugs": {
-    "url": "https://github.com/benlayton/thelounge-theme-custom/issues" 
+    "url": "https://github.com/benlayton/thelounge-theme-custom/issues"
   }
 }
