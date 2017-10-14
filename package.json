@@ -1,0 +1,25 @@
+{
+  "name": "thelounge-theme-scoutlink",
+  "version": "1.0.0",
+  "description": "A theme for The Lounge",
+  "main": "package.json",
+  "thelounge": {
+    "css": "scoutlink.css",
+    "name": "ScoutLink",
+    "type": "theme"
+  },
+  "license": "MIT",
+  "homepage": "https://www.scoutlink.net",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benlayton/thelounge-theme-scoutlink.git"
+  },
+  "keywords": [
+    "thelounge",
+    "thelounge-theme",
+    "scoutlink"
+  ],
+  "bugs": {
+    "url": "https://github.com/benlayton/thelounge-theme-custom/issues" 
+  }
+}
